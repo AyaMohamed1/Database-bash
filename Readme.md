@@ -1,1 +1,1 @@
-Simple database project using bash script.
+# Simple database project using bash script.
