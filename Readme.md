@@ -1,1 +1,7 @@
-# Simple database project using bash script.
+# Simple Database project using bash script
+
+## Contributors
+Ahmed Alaa Ibrahim Mohamed
+Aya Mohamed Ibrahim Elsayed
+
+
